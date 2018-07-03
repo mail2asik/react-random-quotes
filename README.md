@@ -8,6 +8,6 @@ http://www.amasik.com/react-some-important-core-concepts-with-example/
 http://react-random-quotes.amasik.com/
 
 # Installation Instructions
-https://github.com/facebook/create-react-app
-http://www.amasik.com/build-react-app-in-nginx-without-nodejs/
+- https://github.com/facebook/create-react-app
+- http://www.amasik.com/build-react-app-in-nginx-without-nodejs/
 
