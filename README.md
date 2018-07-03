@@ -1,20 +1,13 @@
 # react-random-quotes
-To display random quote upon click. It helps to understand the react core concept easily.
+To display random quote upon click. It helps to recall the react core concepts quickly.
 
-- Create Class Component (Quotes.js)
-- Import and Export Component
-- JSX Syntax
-- Managing States
-- Lifecycle method componentDidMount()
-)
-- Inline Style
-- Inline Class
-- Event Handler i.e onRandomMessage()
-- Adding helper methods i.e shuffle()
+# More Details
+http://www.amasik.com/react-some-important-core-concepts-with-example/
 
 # Demo
 http://react-random-quotes.amasik.com/
 
 # Installation Instructions
 https://github.com/facebook/create-react-app
+http://www.amasik.com/build-react-app-in-nginx-without-nodejs/
 
